@@ -1,2 +1,3 @@
 # odin-recipes
-URl : 
+
+permalink: /index.html
